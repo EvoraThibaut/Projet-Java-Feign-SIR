@@ -2,3 +2,5 @@
 Projet/exercice du cours de systèmes distribués
 
 Utilisation de Feign pour faire communiquer les microservices de gestion de produits et de commandes.
+
+Fait par: EVORA Thibaut et LEROY Christophe
