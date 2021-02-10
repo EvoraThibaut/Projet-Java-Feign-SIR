@@ -1,2 +1,2 @@
 # Projet-Java-Feign-SIR
-Projet/exercice du couts de systèmes distribués
+Projet/exercice du cours de systèmes distribués
